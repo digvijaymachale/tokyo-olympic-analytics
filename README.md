@@ -1,7 +1,7 @@
 # tokyo-olympic-analytics
 • Streamlined the data journey for the Tokyo 2021 Olympics dataset, leveraging Azure services for extraction, transformation, and
-efficient SQL analysis.
-• Crafted an interactive dashboard, connecting Power BI to Synapse Analytics for actionable insights.
+efficient SQL analysis.  
+• Crafted an interactive dashboard, connecting Power BI to Synapse Analytics for actionable insights.  
 • Led execution from data ingestion to visualization, resulting in a streamlined and scalable solution.
 
 ## Block Diagram
