@@ -5,5 +5,5 @@ efficient SQL analysis.
 • Led execution from data ingestion to visualization, resulting in a streamlined and scalable solution.
 
 ## Block Diagram
-![Screenshot (333)](https://github.com/digvijaymachale/tokyo-olympic-analytics/assets/80525740/d3b7b691-e184-4621-bee2-b3181db21429)
+![Screenshot (333)](https://github.com/digvijaymachale/tokyo-olympic-analytics/assets/80525740/c9de4d2f-7fb9-4138-92ec-3145b2bb8069)
 
